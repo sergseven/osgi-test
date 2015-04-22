@@ -10,6 +10,8 @@ public class Bundle1Activator implements BundleActivator {
     @Override
     public void start(BundleContext bundleContext) throws Exception {
         System.out.println("Bundle1Activator.start");
+
+        bug
     }
 
     @Override
